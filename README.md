@@ -82,6 +82,7 @@ $ npm start
 - [Repository](https://github.com/N4fta/threat-shield)
 - [Trello](https://trello.com/b/IiI7SCjg)
 - [Discord]()
+- [Project Plan](https://docs.google.com/document/d/1KShvuRzjufH7MfjYwdzUDcI6XwtESb5aQqSM-cPWZVM/edit?usp=sharing)
 
 ## Credits
 
