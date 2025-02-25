@@ -1,0 +1,29 @@
+PRE
+Defining scope
+-What kind of threats can we define to scan for
+-Are we doing this for a controlled environment or general OS, meaning are we basing this off a predefined directory with access restrictions or certain minimum security criteria or any general access footprinting
+-
+
+POST
+2 SERVER OS
+3 DEPARTMENTS
+2 DIFFERENT CLIENTS
+NETWORK SEGMENTATION
+Include different PCs for clients, workers etc.
+Segmented in 3 layers
+Production, Administrative, Financial
+Separate environments
+Basic security measures like 2FA, SSO, maybe Azure AD involvement
+Guest internet breakout/network Wi-fi
+"secure/redundant" internet for the whole company
+1 department in a different physical location
+NO CLOUD SHIT/No cloud authentication, so all on-premises AD/
+Hosted/exposed linux machine with a program running, say a minecraft server lol
+Focus on all 5 layers of security
+Switch specific security
+Have backup running without cloud
+Point specific access monitoring
+Could have a DMZ 
+Auth/MFA
+-Think about how you would make the "custom" dashboard/logging combo, as if they're too close in function, it could lead to easier compromise of the entire system
+Why not have a security camera, cloudflare tunnel into the netlab
